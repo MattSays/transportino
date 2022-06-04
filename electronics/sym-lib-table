@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "RP2040")(type "Legacy")(uri "${KIPRJMOD}/libs/RP2040/RP2040.lib")(options "")(descr "MCU"))
+  (lib (name "NCP1117-3.3")(type "Legacy")(uri "${KIPRJMOD}/libs/NCP1117ST33T3G/NCP1117ST33T3G.lib")(options "")(descr "LDO Regulator"))
+  (lib (name "W25Q128JVS")(type "Legacy")(uri "${KIPRJMOD}/libs/W25Q128JVSIQ/W25Q128JVSIQ.lib")(options "")(descr "Flash chip"))
+  (lib (name "SS320F-AT")(type "Legacy")(uri "${KIPRJMOD}/libs/SS32/SS32.lib")(options "")(descr "Schottky Diode"))
+)
