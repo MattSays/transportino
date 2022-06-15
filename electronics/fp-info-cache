@@ -1,4 +1,4 @@
--9203131520655407378
+20242171419142204
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -514,6 +514,13 @@ Button_Switch_Keyboard
 SW_Matias_ISOEnter
 Matias/ALPS keyswitch, ISO Enter, http://matias.ca/switches/
 Matias ALPS keyswitch ISO enter
+0
+2
+2
+Button_Switch_SMD
+Button_SWITCH_6.1x3.7
+
+
 0
 2
 2
