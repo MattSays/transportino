@@ -14,7 +14,7 @@ Its name is literally made of two words: Transport and Arduino.
 
 ## What's the main idea behind it?
 
-This robot was originally meant to be a new version of an older one called [ArduCar]().
+This robot was originally meant to be a new version of an older one called [ArduCar](https://github.com/mattsays/arducar).
 
 However it ended up being an entirely new robot that required me to make things entirely different and it was also an opportunity for me to learn more stuff about robotics, electronics, programming and also a little bit of mechanics.
 
