@@ -32,9 +32,13 @@ Transportino is composed by three important parts:
 
 ## To Do list
 
-- [ ] Add integration with Amazon Alexa
+- [X] Make the main motherboard
+- [ ] Code the embedded part
+- [ ] Add ROS2 integration
+- [ ] Make a decent design that so Transportino looks sexy.
+- [ ] Add integration with Amazon Alexa.
 - [ ] Add a speaker so Transportino can also talk.
-- [ ] Add some cool aesthetics
+- [ ] Add some cool aesthetics.
 
 ## What is that 46 logo?
 
