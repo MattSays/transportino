@@ -5,7 +5,7 @@
 
 ## Overview
 
-![transportino](https://github.com/mattsays/transportino/blob/main/images/mechanics_showcase.gif?raw=true)
+![transportino](https://github.com/mattsays/transportino/blob/main/images/mechanics_showcase_0.gif?raw=true)
 
 ## About the project
 
@@ -49,8 +49,9 @@ Transportino is composed by three important parts:
 
 ## Some cool renderings and animations 
 
-![transportino](https://github.com/mattsays/transportino/blob/main/images/mechanics_showcase_0.png?raw=true)
 ![transportino](https://github.com/mattsays/transportino/blob/main/images/mechanics_showcase_1.png?raw=true)
+![transportino](https://github.com/mattsays/transportino/blob/main/images/mechanics_showcase_2.png?raw=true)
+![transportino](https://github.com/mattsays/transportino/blob/main/images/mechanics_showcase_3.gif?raw=true)
 
 
 ## What is that 46 logo?
