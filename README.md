@@ -33,9 +33,9 @@ The robot should know how to navigate in your house and at least bring objects a
 ## What is it made of?
 
 Transportino is composed by three important parts:
-- Mechanics, the main structure, the usage of the right motors for a specific torque, etc.
-- Electronics, the main motherboard, data connections with raspberry pi and power management.
-- Software, the ros2 application that controls all the motors and analyzes data appropriately.
+- [Mechanics](https://github.com/mattsays/transportino/tree/main/mechanics), the main structure, the usage of the right motors for a specific torque, etc.
+- [Electronics](https://github.com/mattsays/transportino/tree/main/electronics), the main motherboard, data connections with raspberry pi and power management.
+- [Software](https://github.com/mattsays/transportino/tree/main/code), the ros2 application that controls all the motors and analyzes data appropriately.
 
 ## To Do list
 
