@@ -1,4 +1,11 @@
+
+![transportino](https://github.com/mattsays/transportino/blob/main/mechanics/demos/transportino_showcase_1.png?raw=true)
+
 # transportino
+
+## Overview
+
+![transportino](https://github.com/mattsays/transportino/blob/main/mechanics/demos/transportino_showcase.gif?raw=true)
 
 ## About the project
 
@@ -35,10 +42,16 @@ Transportino is composed by three important parts:
 - [X] Make the main motherboard
 - [ ] Code the embedded part
 - [ ] Add ROS2 integration
-- [ ] Make a decent design that so Transportino looks sexy.
+- [X] Make a decent design that so Transportino looks sexy.
 - [ ] Add integration with Amazon Alexa.
 - [ ] Add a speaker so Transportino can also talk.
 - [ ] Add some cool aesthetics.
+
+## Some cool renderings and animations 
+
+![transportino](https://github.com/mattsays/transportino/blob/main/mechanics/demos/transportino_showcase_0.png?raw=true)
+![transportino](https://github.com/mattsays/transportino/blob/main/mechanics/demos/transportino_showcase_1.png?raw=true)
+
 
 ## What is that 46 logo?
 
