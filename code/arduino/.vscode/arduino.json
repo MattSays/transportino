@@ -1,5 +1,0 @@
-{
-    "board": "megaTinyCore:megaavr:atxy4",
-    "port": "/dev/tty.usbserial-14340",
-    "sketch": "transportino.ino"
-}
