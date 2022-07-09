@@ -10,19 +10,3 @@ services:
     image: tiryoh/ros2-desktop-vnc:galactic
     ports:
       - "6080:80"
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
