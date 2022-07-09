@@ -1,0 +1,28 @@
+version: "3.9"
+services:
+  ros_ws:
+    image: osrf/ros:galactic-desktop
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./src:/root/dev_ws/src
+  ros_vnc:
+    image: tiryoh/ros2-desktop-vnc:galactic
+    ports:
+      - "6080:80"
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
