@@ -31,7 +31,6 @@ _autosave-*
 .DS_Store
 **/.DS_Store
 electronics/.DS_Store
-electronics/bom
 electronics/jlcpcb
 electronics/libs
 electronics/output/*
