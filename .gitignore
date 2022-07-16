@@ -35,4 +35,4 @@ electronics/jlcpcb
 electronics/libs
 electronics/output/*
 electronics/fp-info-cache
-**/*.txt
+**/*.log
