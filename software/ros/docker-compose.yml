@@ -1,9 +1,0 @@
-version: "3.9"
-services:
-  ros_ws:
-    image: osrf/ros:galactic-desktop
-    stdin_open: true
-    tty: true
-    network_mode: host
-    volumes:
-      - ./src:/root/dev_ws/src

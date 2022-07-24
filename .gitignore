@@ -28,11 +28,16 @@ _autosave-*
 *.xml
 *.csv
 
-.DS_Store
+# Project specific
+.vscode
 **/.DS_Store
+**/*.log
+# Electronics part
 electronics/.DS_Store
 electronics/jlcpcb
 electronics/libs
 electronics/output/*
 electronics/fp-info-cache
-**/*.log
+
+
+# Ignore 

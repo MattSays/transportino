@@ -1,0 +1,9 @@
+[submodule "software/transportino_board"]
+	path = software/transportino_board
+	url = https://github.com/mattsays/transportino_board.git
+[submodule "software/transportino_ros"]
+	path = software/transportino_ros
+	url = https://github.com/Transportino/transportino_ros.git
+[submodule "software/transportino_micro_ros"]
+	path = software/transportino_micro_ros
+	url = https://github.com/Transportino/transportino_micro_ros.git
