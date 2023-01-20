@@ -11,9 +11,9 @@
 
 Transportino is an automated robot that can bring you things around the house using just your vocal assistant.
 
-Making and also understanding this project will hopefully help enthusiast, that want to know more about robotics and automated navigation, learn the basics of it.
+Making and also understanding this project will hopefully help enthusiasts that want to know more about robotics and automated navigation, learn the basics of it.
 
-However, this project has born because of my curiosity to learn robotics so It is far from industrial perfection. If you have new ideas or you want to change something just make a pull request!
+However, this project was born because of my curiosity to learn robotics so It is far from industrial perfection. If you have new ideas or you want to change something just make a pull request!
 
 ## Why this name?
 
@@ -30,6 +30,13 @@ This is just a project that I made to explore a field that was quite unknown to 
 So the main idea behind the whole project is making a robot which can move objects from one room of your house to another one.
 The robot should know how to navigate in your house and at least bring objects at the entrance of the room.
 
+## Known Limitations
+
+Transportino has a raspberry pi 3 at its core, so by actually making It, I have encountered several performance issues that made me voluntarily limit the wanted capabilities of the robot.
+For example, I had to separate the route planning algorithm from the actual robot and make it run on my local computer so I could lower the load on the raspberry.
+It also would have been great if I implemented a more efficient cooling system.
+Besides these major issues, I can proudly say that making this robot has made me learn a lot about what challenges are encountered when making a robot and I love it.
+
 ## What is it made of?
 
 Transportino is composed by three important parts:
@@ -40,12 +47,12 @@ Transportino is composed by three important parts:
 ## To Do list
 
 - [X] Make the main motherboard
-- [ ] Code the embedded part
-- [ ] Add ROS2 integration
+- [X] Code the embedded part
+- [X] Add ROS2 integration
 - [X] Make a decent design that so Transportino looks sexy.
 - [ ] Add integration with Amazon Alexa.
 - [ ] Add a speaker so Transportino can also talk.
-- [ ] Add some cool aesthetics.
+- [X] Add some cool aesthetics.
 
 ## Some cool renderings and animations 
 
